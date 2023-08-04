@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691049096 source:d:\github\cqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+
